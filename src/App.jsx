@@ -28,7 +28,7 @@ export default function App() {
       </div>
       <div>
         <br />
-        <button type="button" className="btn btn-outline-success" onClick={back}>Success</button>
+        <button type="button" className="btn btn-outline-success" onClick={back}>Go back</button>
       </div>
     </>
 
